@@ -14,8 +14,8 @@ Repositório com meus estudos de lógica e programação.
 - 📁 javascript → estudos iniciais
 
 ## 💻 Exemplo
-<img width="1920" height="1080" alt="aumento de salario de 10porcento" src="https://github.com/user-attachments/assets/8153735f-4941-413d-b265-9d14d0c27349" />
 
+<img width="1920" height="1080" alt="digite um numero e saiba se ele e par ou impar" src="https://github.com/user-attachments/assets/ace47446-b8fe-4fac-a6ba-6fcea2932f2c" />
 
 
 ## 📈 Evolução
